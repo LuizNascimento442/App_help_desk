@@ -16,6 +16,10 @@ que ele abriu outro lado postivo dessa aplicação e a segurança do lado do bac
 
 ![App_help_desk](img/app3.jpeg)
 
+## Tela de consulta de chamados cadastrados pelo usuário
+![App_help_desk](img/app4.jpeg)
+
+
 
 
 
